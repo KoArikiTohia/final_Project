@@ -16,7 +16,7 @@
     ],
     "ios": {
         "supportsTablet": true,
-        "bundleIdentifier": "ca.stefan.pressbutton",
+        "bundleIdentifier": "ca.stefan.engravo",
         "buildNumber": "1.0.0"
     },
     "android": {
